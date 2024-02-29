@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="mangaCover">
+        <item>@drawable/manga1</item>
+        <item>@drawable/manga2</item>
+        <item>@drawable/manga3</item>
+        <item>@drawable/manga4</item>
+        <item>@drawable/manga5</item>
+        <item>@drawable/manga6</item>
+        <item>@drawable/manga7</item>
+        <item>@drawable/manga8</item>
+        <item>@drawable/manga9</item>
+        <item>@drawable/manga10</item>
+    </integer-array>
+
+    <string-array name="mangaTitle">
+        <item>5-toubun no Hanayome</item>
+        <item>Nisekoi</item>
+        <item>Kakkou no Iinazuke</item>
+        <item>Amagami-san Chi no Enmusubi</item>
+        <item>Megami no Café Terrace</item>
+        <item>Kubo-san wa Mob wo Yurusanai</item>
+        <item>Domestic na Kanojo</item>
+        <item>Fuufu Ijou, Koibito Miman.</item>
+        <item>Ao Haru Ride</item>
+        <item>\"Oshi no Ko\"</item>
+    </string-array>
+
+    <string-array name="mangaChapter">
+        <item>Chapters: 122</item>
+        <item>Chapters: 229</item>
+        <item>Chapters: ongoing</item>
+        <item>Chapters: ongoing</item>
+        <item>Chapters: ongoing</item>
+        <item>Chapters: 152</item>
+        <item>Chapters: 292</item>
+        <item>Chapters: ongoing</item>
+        <item>Chapters: 53</item>
+        <item>Chapters: ongoing</item>
+    </string-array>
+
+    <string-array name="mangaRating">
+        <item>★ 7.93</item>
+        <item>★ 7.72</item>
+        <item>★ 6.76</item>
+        <item>★ 7.56</item>
+        <item>★ 7.61</item>
+        <item>★ 7.91</item>
+        <item>★ 7.19</item>
+        <item>★ 7.80</item>
+        <item>★ 8.14</item>
+        <item>★ 8.60</item>
+    </string-array>
+
+    <string-array name="mangaSynopsis">
+        <item>Considered a genius, high schooler Fuutarou Uesugi excels at studying and obtains a perfect score on every test. Due to his intense focus on that regard, he is a reclusive person with no friends. Additionally, he lives in a tight financial state as a result of family debts.
+
+\n\nFuutarou\'s mundane lifestyle is interrupted when Itsuki Nakano, a new transfer student, contests him for his usual lunch seat. After a short altercation, Fuutarou emerges victorious by insulting Itsuki\'s eating habits, which angers her enough to leave. However, when Fuutarou learns that he has been offered the private tutor position of a wealthy family\'s academically hopeless daughters, he immediately regrets his prior encounter. It turns out that the beneficiaries of his tutoring are none other than Itsuki and her four identical siblings: the shy Miku, the cheerful Yotsuba, the devious Nino, and the mature Ichika!
+
+\n\nTeaching these quintuplets may prove more difficult for Fuutarou than he initially expected, as the last thing they want to do is seriously study. Now, Fuutarou must face the various challenges of tutoring five beautiful yet eccentric girls.
+
+\n\n[Written by MAL Rewrite]</item>
+        <item>When Raku Ichijou was young, he made a heartfelt promise to his childhood friend that if they were to meet again, they would marry each other. Ten years have passed since that fateful day, leaving Raku\'s memory of her faded. But he still holds a relic of their relationship together—a locked pendant, which his childhood friend holds the key to. He hopes to reunite with her one day, despite not remembering what she looks like.
+
+\n\nNow a first-year student at Bonyari High School, Raku attempts to live a normal life, dreaming of becoming a public servant and marrying his crush Kosaki Onodera. However, this isn\'t as easy as it seems, as he is the unwilling heir to a large yakuza family, and Raku can\'t escape from his duties when the American Bee Hive gang wages war on his family\'s turf. In order to forge peace between the two feuding families, Raku is forced into a fake romantic relationship with Chitoge Kirisaki, the beautiful daughter of the Bee Hive\'s leader. The two quickly come to hate each other, but have to learn to live together and pretend to be deeply in love in order to keep their families at bay.
+
+\n\nHowever, Raku\'s quest for the key to his pendant isn\'t becoming easier as more girls—who were all involved with his pendant in some way—enter his life. Join Raku as he juggles his false relationship, maintains the balance between warring families, and unravels the identity of the girl who will unlock his heart.
+
+\n\n[Written by MAL Rewrite]</item>
+        <item>The members of the Umino household are all rather similar: they are energetic and incredibly dynamic—except for Nagi, a serious and introverted young man whose sole focus is on academics. He is the complete opposite of someone like his younger sister Sachi, who is a reflection of her extroverted parents. Thus, it should come as no surprise that Nagi was swapped with another baby at birth.
+
+\n\nOn the way to meet his true parents, Nagi encounters Erika Amano, a young social media star. While spending the day with her, he learns that Erika\'s parents forced a marriage onto her. Later that day, Nagi comes to learn that Erika\'s fiancé is actually none other than himself, in order to officially be part of each other\'s family. With the goal to build the pair\'s relationship, Nagi\'s biological father arranges for the fiancés to start living together! However, no matter what tricks their parents pull, Nagi refuses to marry Erika. That is because he already has sights set on someone else: the beautiful and intelligent Hiro Segawa.
+
+\n\n[Written by MAL Rewrite]</item>
+        <item>After spending a majority of his life in an orphanage, aspiring doctor Uryuu Kamihate has finally found a place willing to take him in—the Amagami Shrine. There is only one problem: he is an ardent atheist.
+
+\n\nArriving at the shrine, Uryuu discovers that he will not be alone. Living with him are three shrine maidens: the childlike eldest sister Yae; the confrontational middle sister Yuna; and the mischievous youngest sister Asahi, all members of the Amagami household. While Yae and Asahi welcome his company, Yuna refuses to accept his presence and repeatedly clashes with him over their contrasting beliefs. However, Asahi soon unravels the reason behind his lack of faith.
+
+\n\nJust as things are beginning to settle, Chidori Amagami, grandfather of the three sisters, suddenly reveals the condition for Uryuu\'s stay: he must marry one of the sisters and inherit the shrine.
+
+\n\n[Written by MAL Rewrite]</item>
+        <item>When Hayato\'s grandmother passed, he planned to sell her rundown café on the shore—not realizing that it was also home to five young women who call themselves her family?! Their desperation to keep the café open convinces Hayato to give it a shot…but even their best intentions might not be enough to make it work! And can he even work with these five unruly women? No matter what, he\'s got his work cut out for him!
+
+\n\n(Source: Kodansha USA)</item>
+        <item>High school student Junta Shiraishi has a simple goal—to live a fulfilling youth. However, achieving this goal appears to be harder than expected, as everyone in his surroundings often fails to notice him due to his lack of presence. In fact, Shiraishi\'s lack of presence is so severe that people think his seat in class is always empty, and mistakenly assume that he often skips school. There is even a weird rumor spreading around in class, claiming that those who successfully spot Shiraishi will be blessed with good fortune for the day.
+
+\n\nSo far, the only person who notices his existence is Nagisa Kubo, the girl seated next to him. Unfortunately for him though, Kubo likes to tease him on a daily basis and often puts him into unprecedented and nerve-wracking situations. However, as Kubo\'s playful antics continue to involve the reluctant Shiraishi, he may soon discover that his youth might not be as boring as he initially thought.
+
+\n\n[Written by MAL Rewrite]</item>
+        <item>Natsuo Fujii is in love with his teacher, Hina. Attempting to forget his feelings towards her, Natsuo goes to a mixer with his classmates where he meets an odd girl named Rui Tachibana. In a strange turn of events, Rui asks Natsuo to sneak out with her and do her a favor. To his surprise, their destination is Rui\'s house—and her request is for him to have sex with her. There\'s no love behind the act; she just wants to learn from the experience. Thinking that it might help him forget about Hina, Natsuo hesitantly agrees.
+
+\n\nAfter this unusual encounter Natsuo now faces a new problem. With his father remarrying, he ends up with a new pair of stepsisters; unfortunately, he knows these two girls all too well. He soon finds out his new siblings are none other than Hina and Rui! Now living with both the teacher he loves and the girl with whom he had his \"first time,\" Natsuo finds himself in an unexpected love triangle as he climbs ever closer towards adulthood.
+
+\n\n[Written by MAL Rewrite]</item>
+        <item>Jirou, a third-year in high school, is forced to live with a gal named Akari under a course called the \"Couple Practical.\" In order to be paired with their own romantic interests, they\'re going to act as a married couple…!?
+
+\n\n(Source: MangaDex)</item>
+        <item>While most girls desire popularity among boys, Futaba Yoshioka wants the exact opposite. After attracting many admirers back in middle school which resulted in her being shunned by her female classmates, she decided that high school will be her chance to revamp her image. Therefore, she starts acting unfeminine and indifferent to boys, allowing her to make some \"friends\" along the way.
+
+\n\nLittle does Futaba know, her life will take another drastic turn when her first love, Kou Mabuchi, returns after his sudden disappearance years ago in middle school. Despite his extended absence, the fond memories they shared together still linger in her mind, and she wishes to return to those days. But she realizes that the sweet, gentle boy of the past has completely vanished, and in his place stands someone cold and pessimistic. While he admits that her feelings for him back then were mutual, he warns that they can never go back to the past, as everything, including him, has changed.
+
+\n\nAo Haru Ride follows Futaba as she searches for true love and friendship, all while trying her best to stay true to herself.
+
+\n\n[Written by MAL Rewrite]</item>
+        <item>Sixteen-year-old Ai Hoshino is a talented and beautiful idol who is adored by her fans. She is the personification of a pure, young maiden. But all that glitters is not gold.
+
+\n\nGorou Amemiya is a countryside gynecologist and a big fan of Ai. So when the pregnant idol shows up at his hospital, he is beyond bewildered. Gorou promises her a safe delivery. Little does he know, an encounter with a mysterious figure would result in his untimely death—or so he thought.
+
+\n\nOpening his eyes in the lap of his beloved idol, Gorou finds that he has been reborn as Aquamarine Hoshino—Ai\'s newborn son! With his world turned upside down, Gorou soon learns that the world of showbiz is paved with thorns, where talent does not always beget success. Will he manage to protect Ai\'s smile that he loves so much with the help of an eccentric and unexpected ally?
+
+\n\n[Written by MAL Rewrite]</item>
+    </string-array>
+</resources>

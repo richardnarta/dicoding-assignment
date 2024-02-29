@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="220dp"
+            android:layout_height="330dp"
+            app:cardCornerRadius="15dp"
+            android:layout_marginVertical="80dp"
+            android:layout_centerHorizontal="true">
+
+            <ImageView
+                android:id="@+id/ivManga"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:src="@drawable/manga1"
+                android:scaleType="centerCrop"
+                />
+        </androidx.cardview.widget.CardView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="225dp"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/card_view_bg"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="205dp"
+                android:layout_marginBottom="30dp"
+                android:textAlignment="center"
+                android:textSize="26sp"
+                android:textColor="@color/purple_30"
+                android:fontFamily="sans-serif-medium"
+                tools:text="5-toubun no Hanayome" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tv_chapter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="22sp"
+                    android:fontFamily="sans-serif"
+                    android:textColor="@color/purple_30"
+                    android:layout_marginStart="40dp"
+                    tools:text="Chapters: ongoing"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_rating"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginEnd="40dp"
+                    android:fontFamily="sans-serif"
+                    android:textColor="@color/purple_30"
+                    android:textSize="22sp"
+                    tools:text="★ 7.93" />
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/tv_synopsis"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:layout_marginHorizontal="20dp"
+                android:layout_marginBottom="30dp"
+                android:textAlignment="textStart"
+                android:textSize="16sp"
+                android:textColor="@color/purple_30"
+                android:fontFamily="sans-serif-medium"
+                tools:text="5-toubun no Hanayome" />
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

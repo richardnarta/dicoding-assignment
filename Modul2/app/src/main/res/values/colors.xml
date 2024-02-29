@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="purple_cv">#FFf2f0ff</color>
+    <color name="grey_cv">#FF424242</color>
+    <color name="orange">#FFFFA500</color>
+    <color name="dark_orange">#FF4800</color>
+    <color name="purple_30">#FF403286</color>
+    <color name="purple_10">#FF5140AC</color>
+    <color name="purple_cv2">#B8AFF3</color>
+    <color name="transparent">#00000000</color>
+</resources>
