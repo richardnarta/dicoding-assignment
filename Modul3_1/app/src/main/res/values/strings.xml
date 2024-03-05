@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">modul3</string>
+    <string name="home_title">Github User\'s Search</string>
+
+    <string name="search_view">Search GitHub Username</string>
+    <string name="follower">%1$s Followers</string>
+    <string name="following">%1$s Following</string>
+    <string name="def_query">richardnarta</string>
+    <string name="no_follower">No Followers</string>
+    <string name="no_following">No Following</string>
+    <string name="no_name">Unknown</string>
+</resources>
