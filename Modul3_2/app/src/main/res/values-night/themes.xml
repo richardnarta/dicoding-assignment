@@ -1,0 +1,8 @@
+<resources>
+    <style name="Base.Theme.Modul3_2" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+</resources>
