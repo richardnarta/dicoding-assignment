@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Modul7</string>
+    <string name="logo_content_description">logo dicoding</string>
+    <string name="fab_content_description">floating action button tambah cerita</string>
+    <string name="iv_content_description">gambar cerita</string>
+    <string name="error_toast">Error : %1$s</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="main_activity_title">Daftar Cerita</string>
+    <string name="add_story_title">Tambah Cerita</string>
+    <string name="detail_title">Detail Cerita</string>
+    <string name="empty_field">Wajib diisi!</string>
+    <string name="login_success">Berhasil masuk ke akun</string>
+    <string name="register_success">Berhasil membuat akun!</string>
+    <string name="all_field_empty">Error : Silahkan isi semua fields</string>
+    <string name="invalid_email">Format email salah!</string>
+    <string name="empty_desc">Error : Silahkan isi deksripsi</string>
+    <string name="empty_image">Error : Silahkan pilih gambar</string>
+    <string name="upload_success">Berhasil mengunggah cerita</string>
+    <string name="permission_denied">Ijin tidak diberikan</string>
+    <string name="password_length">Password harus terdiri dari 8 karakter atau lebih</string>
+    <string name="register_info">Pengguna baru?&#xA0;</string>
+    <string name="login_info">Punya akun?&#xA0;</string>
+    <string name="login_button">Masuk sekarang</string>
+    <string name="register_button">Daftar sekarang</string>
+    <string name="choose_picture">Pilih gambar</string>
+    <string name="welcome_text">Selamat Datang di Story\'s App</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="desc">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="logout">Keluar</string>
+    <string name="user_name">Nama</string>
+</resources>

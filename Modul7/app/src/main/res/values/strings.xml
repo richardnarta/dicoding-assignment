@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Modul7</string>
+
+    <string name="logo_content_description">dicoding logo</string>
+    <string name="fab_content_description">add story floating action button</string>
+    <string name="iv_content_description">story\'s image</string>
+    <string name="user_name">Name</string>
+    <string name="error_toast">Error : %1$s</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="main_activity_title">Story Lists</string>
+    <string name="add_story_title">Add Story</string>
+    <string name="detail_title">Story Detail</string>
+    <string name="empty_field">Field must be filled!</string>
+    <string name="login_success">Successfully login to existing account</string>
+    <string name="register_success">Successfully create an account!</string>
+    <string name="all_field_empty">Error : Please fill all the fields</string>
+    <string name="invalid_email">Invalid Email format!</string>
+    <string name="empty_desc">Error : Please fill the description</string>
+    <string name="empty_image">Error : Please select a picture</string>
+    <string name="upload_success">Story successfully uploaded</string>
+    <string name="permission_denied">Permissions not granted by the user</string>
+    <string name="password_length">Password must be 8 characters or more</string>
+    <string name="register_info">New User?&#xA0;</string>
+    <string name="login_info">Have an Account?&#xA0;</string>
+    <string name="login_button">Login now</string>
+    <string name="register_button">Register now</string>
+    <string name="choose_picture">Choose a Picture</string>
+    <string name="welcome_text">Welcome to Story\'s App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="desc">Description</string>
+    <string name="upload">Upload</string>
+    <string name="logout">Logout</string>
+</resources>
