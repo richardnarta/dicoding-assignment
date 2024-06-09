@@ -34,4 +34,14 @@
     <string name="desc">Description</string>
     <string name="upload">Upload</string>
     <string name="logout">Logout</string>
+    <string name="title_activity_maps">Story Location</string>
+    <string name="map">Maps</string>
+    <string name="back_icon_description">back button</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Retry</string>
+    <string name="share_location">Share my current location</string>
+    <string name="error_load_story_list">Error loading new stories</string>
 </resources>

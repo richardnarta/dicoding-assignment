@@ -34,4 +34,14 @@
     <string name="upload">Unggah</string>
     <string name="logout">Keluar</string>
     <string name="user_name">Nama</string>
+    <string name="title_activity_maps">Lokasi Cerita</string>
+    <string name="map">Peta Lokasi</string>
+    <string name="back_icon_description">tombol kembali</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Dataran</string>
+    <string name="hybrid_type">Campuran</string>
+    <string name="retry">Muat Ulang</string>
+    <string name="share_location">Bagikan lokasi saya</string>
+    <string name="error_load_story_list">Gagal memuat cerita terbaru</string>
 </resources>

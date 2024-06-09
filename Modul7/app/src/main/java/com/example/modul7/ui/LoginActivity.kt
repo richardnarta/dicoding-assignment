@@ -20,7 +20,10 @@ import com.google.android.material.textfield.TextInputLayout
 class LoginActivity : AppCompatActivity() {
     private lateinit var binding: ActivityLoginBinding
 
-    private val factory: UserViewModelFactory = UserViewModelFactory.getInstance(this)
+    private val factory: UserViewModelFactory by lazy {
+        UserViewModelFactory.getInstance(this)
+    }
+
     private val viewModel: UserStatusViewModel by viewModels {
         factory
     }
